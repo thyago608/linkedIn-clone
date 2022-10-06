@@ -1,6 +1,6 @@
 ## Sobre
 
-O projeto **Linkedin Clone* é um projeto desenvolvido com o objeto de clonar a interface da rede social **Linkedin**.
+O projeto **Linkedin Clone** é um projeto desenvolvido com o objeto de clonar a interface da rede social **Linkedin**.
 ---
 
 ## Tecnologias utilizadas
